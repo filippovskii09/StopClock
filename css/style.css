@@ -1,0 +1,14 @@
+@media (max-width: 520px) {
+  html, body {
+    overflow: hidden;
+  }
+  .actions {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .result {
+    padding-bottom: 60px;
+    gap: 5px;
+    font-size: 32px;
+  }
+}
